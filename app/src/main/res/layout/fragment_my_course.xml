@@ -11,7 +11,7 @@
         android:id="@+id/topView"
         android:layout_width="451dp"
         android:layout_height="342dp"
-        android:background="@color/oakokho_theme_color"
+        android:background="@drawable/oakokho_theme_color_gradient"
         app:layout_constraintEnd_toEndOf="parent"
 
         app:layout_constraintHorizontal_bias="0.421"
