@@ -419,7 +419,7 @@
 
                 android:background="#00040404"
                 android:fontFamily="@font/varela_round"
-                android:text="My progress"
+                android:text="My Progress"
                 android:textColor="#050505"
                 android:textSize="34sp"
                 android:textStyle="bold" />
